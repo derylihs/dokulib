@@ -1,0 +1,12 @@
+{
+    "name": "dyandra/dokulib",
+    "description": "Doku payment package for laravel",
+    "authors": [
+        {
+            "name": "Deryl",
+            "email": "deryl.ihs@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
